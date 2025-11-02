@@ -262,16 +262,6 @@ A concise results table can be auto‑generated from `tables/summary.csv`. If yo
 
 ---
 
-## Roadmap
-
-- [ ] Add operator‑ablation study.
-- [ ] Add automatic per‑family operator weighting.
-- [ ] Add YAML experiment configs and sweep runner.
-- [ ] Export unified `all_methods_summary.csv` (SPHH/GPHH/HPHH).
-- [ ] Optional Torch‑based samplers for generation moves.
-
----
-
 ## Acknowledgments
 
 - University of Pretoria — COS790 course staff and peers.

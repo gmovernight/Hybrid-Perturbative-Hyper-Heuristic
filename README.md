@@ -272,30 +272,6 @@ A concise results table can be auto‑generated from `tables/summary.csv`. If yo
 
 ---
 
-## Cite This Work
-
-If you use this repository or build upon it, please cite:
-
-```bibtex
-@misc{hphh2025,
-  title        = {Hybrid Perturbative Hyper-Heuristic (HPHH)},
-  author       = {Carlinsky, Ruan},
-  howpublished = {\url{https://github.com/gmovernight/Hybrid-Perturbative-Hyper-Heuristic}},
-  year         = {2025},
-  note         = {COS790 Assignment 3}
-}
-```
-
-You may also cite the baseline repos you adapted (SPHH, GPHH) as needed.
-
----
-
-## License
-
-This project is licensed under the **MIT License**. See `LICENSE` for details.
-
----
-
 ## Acknowledgments
 
 - University of Pretoria — COS790 course staff and peers.

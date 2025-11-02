@@ -21,9 +21,6 @@
 - [Project Structure](#project-structure)
 - [Results Snapshot](#results-snapshot)
 - [Troubleshooting](#troubleshooting)
-- [Roadmap](#roadmap)
-- [Cite This Work](#cite-this-work)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ---
